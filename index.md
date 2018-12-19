@@ -1,5 +1,5 @@
-<!DOCTYPE HTML>
-<html>
+
+
 
 <head>
 	<link rel="bookmark"  type="image/x-icon"  href="/img/logo_miccall.png"/>
@@ -72,7 +72,7 @@
                 <div id="intro">
             <h1>This is<br />
                         LIUQI </h1>
-            <p> 
+            <p> None is of freedom or of life deserving <br/> Nnless he daily conquers it anew. 
             </p>
             <ul class="actions">
                 <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
@@ -142,6 +142,12 @@
                         </a>
                     </li>
                     
+                    <li>
+                        <a title="500px" href="http://500px.com" target="_blank" rel="noopener">
+                            <i class="icon fa fa-500px"></i>
+                        </a>
+                    </li>
+                    
 			</ul>
 </nav>
         <!-- Nav 导航条 end -->
@@ -153,7 +159,7 @@
             <article id="me" class="panel">
                 <header style="color: #000000">
                     <h1>LIU QI</h1>
-                    <p>Researcher of Seismology and AI.</p>
+                    <p>A researcher for Geoscience and Computer science.<br/>I had graduated at HoHai University.</p>
                 </header>
                 <a href="" class="jumplink pic">
                     <span class="arrow icon fa-chevron-right"><span></span></span>
@@ -255,4 +261,4 @@
 </body>
 
  	
-</html>
+
