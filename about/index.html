@@ -872,7 +872,8 @@
         <!-- Header Card -->
         <header class="header-card">
             <div class="avatar-container">
-                <img src="/images/profile.jpg" alt="刘齐的照片" class="avatar-img" onerror="this.style.display='none'; this.parentElement.innerHTML='<i class=\"fa-solid fa-user-tie\" style=\"font-size:4rem; color:#94a3b8;\"></i>'">
+                <img src="/images/profile.jpg" alt="刘齐的照片" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.hidden=false">
+                <i class="fa-solid fa-user-tie" style="font-size:4rem; color:#94a3b8;" hidden aria-hidden="true"></i>
             </div>
             <div class="header-main">
                 <h1>
